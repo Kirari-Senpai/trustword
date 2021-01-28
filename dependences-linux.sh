@@ -9,7 +9,7 @@ git clone https://github.com/P-H-C/phc-winner-argon2.git
 cd phc-winner-argon2
 make && make install PREFIX=/usr
 cd ..
-rm -rf libsodium phc-winner-argon2
+rm -rf libsodium/ phc-winner-argon2/
 mkdir build && cd build
 export CC=`which gcc`
 cmake ..
