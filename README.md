@@ -1,4 +1,4 @@
-## trustword
+## Trustword
 **Trustword** es un programa muy simple para la firma, el cifrado y el mantenimiento de claves para facilitar y fortalecer una comunicación segura. Usa internamente (gracias a [libsodium](https://github.com/jedisct1/libsodium)) para el cifrado XSalsa20, y en el caso de la criptografía asimétrica, se complementa con el intercambio de claves X25519. Y para la firma digital Ed25519ph con SHA512.
 
 ## Dependencias
@@ -117,4 +117,5 @@ trustword --help
 ./trustword --list --user [Nombre de usuario]
 ```
 
-~ DtxdF
+Creador: DtxdF
+Colaborador: Kirari
