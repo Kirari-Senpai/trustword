@@ -1,4 +1,4 @@
-sudo apt-get install gcc cmake openssl libssl-dev libsqlite3-dev git
+sudo apt-get install gcc cmake libssl-dev libsqlite3-dev git
 git clone https://github.com/jedisct1/libsodium --branch stable
 cd libsodium
 ./configure
