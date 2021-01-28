@@ -117,5 +117,5 @@ trustword --help
 ./trustword --list --user [Nombre de usuario]
 ```
 
-Creador: DtxdF
-Colaborador: Kirari
+* DtxdF (creador)
+* Kirari (colaborador)
